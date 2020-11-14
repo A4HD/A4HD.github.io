@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#utheader {
+	position: relative;
+	width: 960px;
+	height: 120px;
+	background-color: #000;
+}
+
+#utheader h1 {
+	padding: 0;
+	margin: 0;
+}
+
+#utheader h1 a {
+	display: block;
+	height: 120px;
+	width: 1000px;
+	text-indent: -9999px;
+	background-image: url(../images/ut_banner.jpg);
+	background-repeat: no-repeat;
+}
+
+
+#submit {
+	border: none;
+}
