@@ -14,6 +14,10 @@ a.current:link, a.current:visited {
 }
 img { border:none; }
 
+li{
+  margin: 20px 0;
+}
+
 body {
 	margin:0;
 	padding:0;
