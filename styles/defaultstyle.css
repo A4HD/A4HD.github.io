@@ -43,14 +43,14 @@ body {
 }	
 #banner {
 	color:#FFF;
-	padding:80px;
+	padding:90px;
 	
 	
 	
 	background-color:#FFF;
 	margin:0;
-	background-image: url(../images/uO_Background.jpg);
-	background-size: 1100px 370px;
+	background-image: url(../images/uO_Background1.jpg);
+	background-size: 1250px 270px;
 }
 h1 {
 	margin:0;
@@ -137,10 +137,10 @@ h1 {
 }
 
 h2 {
-	margin-top:0;
-	color:#494949;
-	font-weight:normal;
-	font-size:200%;
+	margin:0;
+	padding: 0;
+	font-size:20px;
+	
 }
 
 .right {
